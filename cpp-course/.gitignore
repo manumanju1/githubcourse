@@ -1,0 +1,18 @@
+# Build artifacts
+/build/
+
+# Visual Studio files
+.vscode/
+*.vcxproj*
+*.sln
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor backups
+*~
+*.swp
+*.tmp
